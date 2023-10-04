@@ -1,0 +1,2 @@
+# plugins
+exploring openai plugins
